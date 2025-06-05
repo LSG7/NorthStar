@@ -3,3 +3,5 @@
 </div>
 
 # NorthStar
+
+1. ゲーム呼吸第1型 : [青写真粉砕](https://github.com/LSG7/BP_to_LLM)
