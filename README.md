@@ -4,4 +4,4 @@
 
 # NorthStar
 
-1. げーむのこきゅう いちのかた：[ぶるーぷりんとふんさい](https://github.com/LSG7/BP_to_LLM)
+1. ゲームの呼吸タイプ1：[ブループリント粉砕](https://github.com/LSG7/BP_to_LLM)
