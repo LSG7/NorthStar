@@ -4,6 +4,4 @@
 
 # NorthStar
 
-1. ゲームの呼吸タイプ1：[ブループリント粉砕](https://github.com/LSG7/BP_to_LLM)
-2. 게임의 호흡 2형 : 휘몰아치는 에셋
-3. 게임의 호흡 3형 : 전지적 LLM 시점  
+1. 게임 개발에 필요한 도구 : https://github.com/LSG7/Door_to_isekai  
