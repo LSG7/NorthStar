@@ -4,6 +4,10 @@
 
 # NorthStar
 
-1. AI Bridge to UnrealEngine : https://github.com/LSG7/Door_to_isekai  
-2. Alive NPC : https://github.com/LSG7/EASTWORLD  
+1. AI Bridge to UnrealEngine : https://github.com/LSG7/Door_to_isekai
+   - This will automatically create the game world.  
+2. Alive NPC : https://github.com/LSG7/EASTWORLD
+  - This will make the NPCs truly human.  
 3. NPC Combat AI : https://github.com/LSG7/SunTzu
+  - This will make the NPC a great general.
+
