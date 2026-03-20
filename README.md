@@ -12,4 +12,6 @@ What "Isekai" Needs to Become Real
    - This will make the NPCs truly human.  
 3. NPC Combat AI : https://github.com/LSG7/SunTzu
    - This will make the NPC a great general.
+4. NPC Animation AI : https://github.com/LSG7/ballerina
+   - This will make the NPC dance like a real ballet dancer.  
 
